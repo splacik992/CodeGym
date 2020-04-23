@@ -20,12 +20,20 @@ public class Solution {
     }
 
     public static ArrayList<String> napraw(ArrayList<String> lista) {
-        // tutaj wpisz swój kod
-        boolean b =
-        if(lista.equals("l")){
-            lista.clone();
+
+        ArrayList<String> temp = new ArrayList<>();
+        for (int i = 0; i < lista.size(); i++) {
+            if (lista.get(i).contains("r") && lista.get(i).contains("l")) {
+                temp.add(lista.get(i));
+            }
+            if (!lista.get(i).contains("l") && !lista.get(i).contains("r")) {
+                temp.add(lista.get(i));
+            }
+            if(lista.get(i).contains("l") && !lista.get(i).contains("r")){
+                temp.add(lista.get(i));
+                temp.add(lista.get(i));
+            }
         }
-        if()
-        return null;
+        return temp;
     }
 }
