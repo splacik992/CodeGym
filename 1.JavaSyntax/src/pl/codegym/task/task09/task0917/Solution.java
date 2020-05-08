@@ -10,9 +10,14 @@ public class Solution {
     }
 
     public static void obslugaExceptions(Solution obj) {
-        obj.method1();
-        obj.method2();
-        obj.method3();
+
+        try {
+            obj.method1();
+            obj.method2();
+            obj.method3();
+        }catch (Exception e){
+            printStos(e);
+        }
     }
 
     public static void printStos(Throwable throwable) {
