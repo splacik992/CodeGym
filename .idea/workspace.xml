@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task09/task0923/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task09/task0923/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CodeGymPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/pl/codegym/task/task09/task0922/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/pl/codegym/task/task09/task0922/Solution.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -270,12 +268,12 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1006.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1012.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task10.task1006.*" />
+          <option name="PATTERN" value="pl.codegym.task.task10.task1012.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +282,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1003.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1009.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task10.task1003.*" />
+          <option name="PATTERN" value="pl.codegym.task.task10.task1009.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +296,12 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1004.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1011.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task10.task1004.*" />
+          <option name="PATTERN" value="pl.codegym.task.task10.task1011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +310,12 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1007.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1015.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task10.task1007.*" />
+          <option name="PATTERN" value="pl.codegym.task.task10.task1015.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +324,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1005.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task10.task1010.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task10.task1005.*" />
+          <option name="PATTERN" value="pl.codegym.task.task10.task1010.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
