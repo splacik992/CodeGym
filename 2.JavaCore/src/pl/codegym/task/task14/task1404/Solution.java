@@ -22,7 +22,6 @@ public class Solution {
                 Cat cat = CatFactory.getCatByKey(name);
                 System.out.println(cat.toString());
             }
-
         }
 
     }

@@ -17,17 +17,16 @@ static class Matrix {
 }
 
 interface DBObject {
-    DBObject initializeIdAndName(long id, String name);
+    User initializeIdAndName(long id, String name);
 }
 
 static class User implements DBObject {
     long id;
     String name;
 
-    public DBObject initializeIdAndName(long id, String name) {
-        this.id = id;
+    public User initializeIdAndName(long id, String name) {
         this.name = name;
-        return this;
+        return new User();
     }
 
     @Override

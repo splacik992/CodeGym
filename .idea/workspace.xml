@@ -3,11 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="K">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/pl/codegym/task/task13/task1306/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/pl/codegym/task/task13/task1306/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/pl/codegym/task/task13/task1319/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/pl/codegym/task/task13/task1319/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/pl/codegym/task/task14/task1404/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/pl/codegym/task/task14/task1404/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CodeGymPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1328/AbstractRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1328/AbstractRobot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1328/BodyPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1328/BodyPart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1328/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1328/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1306/Solution$DBObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1306/Solution$DBObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1306/Solution$Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1306/Solution$Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1306/Solution$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1306/Solution$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1319/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task13/task1319/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution$CatFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution$CatFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution$MeanCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution$MeanCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution$NiceCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution$NiceCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/pl/codegym/task/task14/task1404/Solution.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +49,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1ZcJ0W4rggpUhdD2ScnNkulsi30" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -70,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -271,12 +283,12 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task13.task1328.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task14.task1409.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task13.task1328.*" />
+          <option name="PATTERN" value="pl.codegym.task.task14.task1409.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,26 +297,12 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task14.task1401.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task14.task1410.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task14.task1401.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task14.task1406.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task14.task1406.*" />
+          <option name="PATTERN" value="pl.codegym.task.task14.task1410.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +311,12 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task13.task1327.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task14.task1411.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task13.task1327.*" />
+          <option name="PATTERN" value="pl.codegym.task.task14.task1411.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,13 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task14.task1404.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task14.task1408.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task14.task1404.*" />
+          <option name="PATTERN" value="pl.codegym.task.task14.task1408.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,6 +340,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task14.task1408.a" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.codegym.task.task14.task1408.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -407,11 +419,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.a" />
       </list>
     </recent_temporary>
   </component>

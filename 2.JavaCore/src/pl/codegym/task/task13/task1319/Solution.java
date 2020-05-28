@@ -17,17 +17,13 @@ public class Solution {
 
         FileWriter writer = new FileWriter(fileName);
         BufferedWriter bufferedWriter = new BufferedWriter(writer);
-        String text;
+        String text = "";
 
-        for (String s : list) {
-            bufferedWriter.write(s + "\n");
-        }
-        while (!(text = reader.readLine()).equals("exit")) {
-            list.add(text + "\n");
+        while (!"exit".equals(text)) {
+            text = reader.readLine();
+            writer.write(text + "\n");
 
         }
-
-
         bufferedWriter.close();
     }
 }
