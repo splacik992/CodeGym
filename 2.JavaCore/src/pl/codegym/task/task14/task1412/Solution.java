@@ -15,7 +15,8 @@ public class Solution {
     }
 
     public static void printMainInfo(Object object) {
-        //tutaj wpisz swój kod
+
+      
 
     }
 
@@ -24,7 +25,7 @@ public class Solution {
         void move();
     }
 
-    static class Circle implements Movable {
+    static class Circle implements Movable,Drawable {
 
         public void draw() {
             System.out.println("Coś, co można narysować");
